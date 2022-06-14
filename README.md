@@ -179,3 +179,10 @@ Add a `/bookmarks` view, show all bookmarked posts. Take data from `bookmarks.js
 - [ ] Filtered list output is correct
 - [ ] Working with data is moved to a function or a separate class
 - [ ] Data is filtered before being sent to the template, extra data is not transferred to the template
+
+# Project status
+
+Create MVP
+
+# Some graphical information about project
+[My Miro board](https://miro.com/app/board/uXjVOtUXZnM=/?share_link_id=994454813141)
